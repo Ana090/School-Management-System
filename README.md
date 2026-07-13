@@ -41,8 +41,8 @@ The system is designed to help educational institutions manage daily operations 
 ---
 
 ## 📷 Screenshots
-iu/welcome-img.png
-## ⚙️ Installation
+![Welcome](./iu/welcome-img.png)
+ ## ⚙️ Installation
 
 Clone the repository
 
