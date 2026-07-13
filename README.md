@@ -41,6 +41,9 @@ The system is designed to help educational institutions manage daily operations 
 ---
 
 ## 📷 Screenshots
+![Welcome](./iu/Screenshot 2026-02-26 032039.png).
+![Welcome](./iu/Screenshot 2026-07-07 085920.png).
+![Welcome](./iu/Screenshot 2026-07-07 092601.png).
 ![Welcome](./iu/welcome-img.png)
  ## ⚙️ Installation
 
