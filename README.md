@@ -1,3 +1,10 @@
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+
+![PHP](https://img.shields.io/badge/PHP-8.2-blue)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Version](https://img.shields.io/badge/Version-v1.0.0-orange)
 # 🎓 School Management System
 
 A modern School Management System built with **Laravel** to simplify the management of schools, students, teachers, classes, attendance, fees, and academic records through an intuitive web interface.
